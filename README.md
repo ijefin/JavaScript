@@ -16,7 +16,7 @@
 
 5. Para rodar o projeto, você utilizará o seguinte comando:
 
-   ​									`node index.js`
+   ​									`node IntroducaoAoJavScript.js`
 
 Onde **node** é o código reservado do terminal para a execução, e **index.js** é seu parâmetro, que também nome do nosso arquivo.
 
