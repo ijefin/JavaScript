@@ -8,7 +8,7 @@
 
    ` "name": "aprendendo-js",`    o atributo name deve conter o mesmo nome da pasta que você clonou o projeto. Não utilize sub-diretórios!
 
-2. Você também precisará ter o **nodeJS ** instalado em sua máquina.
+2. Você também precisará ter o **nodeJS** instalado em sua máquina.
 
 3. Apos clonar o projeto e deixar o mesmo em uma pasta, abra seu VScode e também o Terminal da IDE;
 
