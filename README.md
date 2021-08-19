@@ -6,7 +6,7 @@
 
    ### Exemplo:
 
-   ` "name": "projeto-poo",`    o atributo name deve conter o mesmo nome da pasta que você clonou o projeto. Não utilize sub-diretórios!
+   ` "name": "aprendendo-js",`    o atributo name deve conter o mesmo nome da pasta que você clonou o projeto. Não utilize sub-diretórios!
 
 2. Você também precisará ter o **nodeJS ** instalado em sua máquina.
 
